@@ -16,58 +16,58 @@
   </category>
   <category name="Frappe">
       <item>
-      <listing></listing>
-      <price></price>
+      <listing>Salted Caramel Frappe</listing>
+      <price>4.50</price>
     </item>
     <item>
-      <listing></listing>
-      <price></price>
+      <listing>Pumpkin Spice Frappe</listing>
+      <price>5.00</price>
     </item>
     <item decaf="true">
-      <listing></listing>
-      <price></price>
+      <listing>Mint Chocolate Frappe</listing>
+      <price>5.00</price>
     </item>
   </category>
   <category name="Iced Coffee">
       <item>
-      <listing></listing>
-      <price></price>
+      <listing>Iced Toasted Vanilla</listing>
+      <price>4.00</price>
     </item>
     <item>
-      <listing></listing>
-      <price></price>
+      <listing>Iced Shaken Espresso</listing>
+      <price>3.80</price>
     </item>
     <item decaf="true">
-      <listing></listing>
-      <price></price>
+      <listing>Iced Flat White</listing>
+      <price>4.10</price>
     </item>
   </category>
   <category name="Tea">
       <item>
-      <listing></listing>
-      <price></price>
+      <listing>Mint</listing>
+      <price>2.50</price>
     </item>
     <item>
-      <listing></listing>
-      <price></price>
+      <listing>Green</listing>
+      <price>2.70</price>
     </item>
     <item decaf="true">
-      <listing></listing>
-      <price></price>
+      <listing>Breakfast</listing>
+      <price>2.50</price>
     </item>
   </category>
   <category name="Deserts">
       <item>
-      <listing></listing>
-      <price></price>
+      <listing>Chocolate Brownie</listing>
+      <price>4.50</price>
     </item>
     <item>
-      <listing></listing>
-      <price></price>
+      <listing>Vanilla Cheesecake</listing>
+      <price>4.50</price>
     </item>
     <item>
-      <listing></listing>
-      <price></price>
+      <listing>Carrot Cake</listing>
+      <price>5.00</price>
     </item>
   </category>
 </menu>
