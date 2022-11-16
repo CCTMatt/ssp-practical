@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+  <category name="Coffee">
+    <item>
+      <listing>Espresso</listing>
+      <price>3.00</price>
+    </item>
+    <item>
+      <listing>Latte</listing>
+      <price>3.50</price>
+    </item>
+    <item decaf="true">
+      <listing>Americano</listing>
+      <price>3.20</price>
+    </item>
+  </category>
+  <category name="Frappe">
+      <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item decaf="true">
+      <listing></listing>
+      <price></price>
+    </item>
+  </category>
+  <category name="Iced Coffee">
+      <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item decaf="true">
+      <listing></listing>
+      <price></price>
+    </item>
+  </category>
+  <category name="Tea">
+      <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item decaf="true">
+      <listing></listing>
+      <price></price>
+    </item>
+  </category>
+  <category name="Deserts">
+      <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item>
+      <listing></listing>
+      <price></price>
+    </item>
+    <item>
+      <listing></listing>
+      <price></price>
+    </item>
+  </category>
+</menu>
